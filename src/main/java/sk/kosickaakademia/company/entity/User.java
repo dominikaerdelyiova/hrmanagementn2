@@ -33,7 +33,10 @@ public class User {
         return age;
     }
 
-    public Gender getGender() {
+    public int getGender() {
         return gender;
+    }
+
+    public String getLname() {
     }
 }

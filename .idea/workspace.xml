@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26f31d00-84e6-4a56-9078-051081a1b7af" name="Default Changelist" comment="Added Database, Log classes" />
+    <list default="true" id="26f31d00-84e6-4a56-9078-051081a1b7af" name="Default Changelist" comment="Added Database, Log classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/enumerator/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/enumerator/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/log/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/log/Log.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614694554633</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Database, Log classes">
+      <created>1614694801107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614694801107</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -82,13 +95,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="485" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614692057590" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1614763672884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614763672884" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1614763672882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614763672882" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1614763672875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614763672875" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1614763672883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614763672883" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1614694226657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1614694226657" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1614694568956">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1614694852748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614694568956" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614694852748" />
+    <state x="383" y="111" key="refactoring.ChangeSignatureDialog" timestamp="1614768132097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="383" y="111" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1614768132097" />
   </component>
 </project>
