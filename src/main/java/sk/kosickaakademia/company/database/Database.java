@@ -64,4 +64,20 @@ public class Database {
 
 
     }
+    public List<User> getAllUsers(){
+        return null;
+    }
+
+    public User getUserById(int id){
+        return null;
+    }
+
+    public boolean changeAge(int id, int newAge){
+        return false;
+    }
+
+    public List<User> getUser(String pattern){
+        "la" -> Milan, Ladislav, Milada
+        return null;
+    }
 }
