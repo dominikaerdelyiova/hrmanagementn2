@@ -16,7 +16,7 @@ public class Util {
         return null;
         }
 
-        public String getCurrentDateTime(){
+        public Date getCurrentDateTime(){
 
         return null;
 
@@ -24,6 +24,8 @@ public class Util {
 
             SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
             System.out.println(formatter.format(date));
+
+            return date;
 
         }
 

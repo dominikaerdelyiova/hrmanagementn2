@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26f31d00-84e6-4a56-9078-051081a1b7af" name="Default Changelist" comment="Added methods">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/util/Util.java" afterDir="false" />
+    <list default="true" id="26f31d00-84e6-4a56-9078-051081a1b7af" name="Default Changelist" comment="Added methods: CurrentDateTime">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/util/Util.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614861753099</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added methods: CurrentDateTime">
+      <created>1614934231404</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614934231404</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -93,7 +100,8 @@
     <MESSAGE value="Added Database, Log classes" />
     <MESSAGE value="Added selects" />
     <MESSAGE value="Added methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added methods" />
+    <MESSAGE value="Added methods: CurrentDateTime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added methods: CurrentDateTime" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614691596037">
@@ -128,10 +136,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1614694226657" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1614861755388">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1614934233901">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614861755388" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614934233901" />
     <state x="383" y="111" key="refactoring.ChangeSignatureDialog" timestamp="1614768132097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
