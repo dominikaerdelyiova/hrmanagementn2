@@ -2,6 +2,7 @@ package sk.kosickaakademia.company.database;
 
 import sk.kosickaakademia.company.entity.User;
 import sk.kosickaakademia.company.log.Log;
+import sk.kosickaakademia.company.util.Util;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -41,6 +42,10 @@ public class Database {
 
     }
     public boolean insertNewUser(User user) throws SQLException, IOException {
+        if(user==null)
+            return false;
+        String fname = new Util().normalizeName(user.getFname());
+        String lname = new Util().normalizeName(user.getLname());
         Connection con = getConnection();
         if (con != null) {
             try {
