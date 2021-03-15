@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26f31d00-84e6-4a56-9078-051081a1b7af" name="Default Changelist" comment="Added class Util">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/ccontroller/Controller.java" afterDir="false" />
+    <list default="true" id="26f31d00-84e6-4a56-9078-051081a1b7af" name="Default Changelist" comment="Edited class Controller and Gender">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/ccontroller/PostMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/ccontroller/RequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/ccontroller/RestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/enumerator/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/enumerator/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/ccontroller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/kosickaakademia/company/ccontroller/Controller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -41,6 +44,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HR Management" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sk.kosickaakademia.company.ccontroller" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -107,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614939391473</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Edited class Controller and Gender">
+      <created>1615543782463</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615543782463</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,7 +132,8 @@
     <MESSAGE value="Added methods" />
     <MESSAGE value="Added methods: CurrentDateTime" />
     <MESSAGE value="Added class Util" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added class Util" />
+    <MESSAGE value="Edited class Controller and Gender" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited class Controller and Gender" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614691596037">
@@ -148,14 +164,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614763672883" />
-    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1614694226657">
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1615796944100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1614694226657" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1614939394707">
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1615796944100" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1615543787541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614939394707" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615543787541" />
     <state x="65" y="25" key="new project wizard" timestamp="1615366943760">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

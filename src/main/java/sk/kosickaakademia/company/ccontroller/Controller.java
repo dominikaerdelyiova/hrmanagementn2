@@ -27,6 +27,12 @@ public class Controller {
             return ResponseEntity.status(488).contentType(MediaType.APPLICATION_JSON);
 
         }
+        @GetMapping ("/users/age")
+                public ResponseEntity<String> getUsersByAge(@RequestParan(value=from)){
+
+            return null;
+            }
+
         }
 
 
